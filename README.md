@@ -2,7 +2,7 @@
 Does some calculations.
 
 ## Sum total
-This program add the number entered by itself and returns the sum.
+This program returns the number by adding it to itself.
 
 ## Double
 
